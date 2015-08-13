@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage = 'https://github.com/dtissera/DTIActivityIndicatorView-Swift'
   s.social_media_url = 'http://twitter.com/dtissera'
   s.authors = { 'David Tisserand' => 'david.tisserand.mobile@gmail.com' }
-  s.source = { :git => 'https://github.com/dtissera/DTIActivityIndicatorView-Swift.git', :tag => s.version }
+  s.source = { :git => 'https://github.com/nobre84/DTIActivityIndicatorView-Swift.git', :tag => s.version }
 
   s.ios.deployment_target = '8.0'
   
